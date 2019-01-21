@@ -1,0 +1,14 @@
+Nachos@@appetizer@@A heaping plate of nachos@@200@@6.00
+Fried Cheese@@appetizer@@Cheese breaded and fried@@300@@5.00
+Peirogies@@appetizer@@Filled with potatoes@@250@@4.00
+Pretzel@@appetizer@@A large pretzel@@150@@3.00
+Sirloin Steak@@entree@@A delicious piece of 1/2 a pound of our carefully selected meat grilled and seasoned. Choose how much you want it cooked@@420@@22.50
+Deep fried chicken breasts@@entree@@Deep fried chicken breasts using our traditional powder receipt@@560@@12.00
+Griller Steak@@entree@@Carfully selected prime quality steak griller to the point of your preference@@740@@15.00
+Curry Chicken@@entree@@Curry marinated chicken, cooked slowly in wood fire oven@@430@@11.50
+Rice Pilaf@@side@@Are there other kinds of pilaf?@@160@@3.50
+Grilled Potatoes@@side@@Boiled potatoes grilled in oven with a touch of butter@@270@@4.75
+Quinoa@@side@@Quinoa@@140@@2.25
+Yuengling@@beer@@A classic standby@@250@@3.25
+Railbender@@beer@@Tastes like iron!@@200@@2.80
+Augustiner@@beer@@As good as you imagine@@175@@4.00
